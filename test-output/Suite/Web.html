@@ -1,0 +1,174 @@
+<html>
+<head>
+<title>TestNG:  Web</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Web</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>19/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Feb 17 19:36:10 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>1471 seconds (1471143 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td>regression </td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='WebTestCases.TC_001_fileupload.TC_001_Fileupload()'><b>TC_001_Fileupload</b><br>Test class: WebTestCases.TC_001_fileupload<br>Test method: Upload file</td>
+<td></td>
+<td>69</td>
+<td>WebTestCases.TC_001_fileupload@d41f816</td></tr>
+<tr>
+<td title='WebTestCases.TC_006_ZurichFloodQuote.TC_006_zurichFloodQuote()'><b>TC_006_zurichFloodQuote</b><br>Test class: WebTestCases.TC_006_ZurichFloodQuote<br>Test method: Zurich Flood Quote</td>
+<td></td>
+<td>115</td>
+<td>WebTestCases.TC_006_ZurichFloodQuote@5c2375a9</td></tr>
+<tr>
+<td title='WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber.TC_012_reprintQuoteOrAppWithAppNumber()'><b>TC_012_reprintQuoteOrAppWithAppNumber</b><br>Test class: WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber<br>Test method: Reprint Quote or App with application number</td>
+<td></td>
+<td>45</td>
+<td>WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber@5f354bcf</td></tr>
+<tr>
+<td title='WebTestCases.TC_024_SearchPolicyFromSearchBox.TC_024_searchPolicyFromSearchBox()'><b>TC_024_searchPolicyFromSearchBox</b><br>Test class: WebTestCases.TC_024_SearchPolicyFromSearchBox<br>Test method: Policy search</td>
+<td></td>
+<td>43</td>
+<td>WebTestCases.TC_024_SearchPolicyFromSearchBox@60129b9a</td></tr>
+<tr>
+<td title='WebTestCases.TC_025_InsuredWebSiteGuestSignIn.TC_025_guestSignIn()'><b>TC_025_guestSignIn</b><br>Test class: WebTestCases.TC_025_InsuredWebSiteGuestSignIn<br>Test method: Guest sign in</td>
+<td></td>
+<td>25</td>
+<td>WebTestCases.TC_025_InsuredWebSiteGuestSignIn@78d6692f</td></tr>
+<tr>
+<td title='WebTestCases.TC_026_ClaimInformationPage.TC_026_claimInformationPage()'><b>TC_026_claimInformationPage</b><br>Test class: WebTestCases.TC_026_ClaimInformationPage<br>Test method: going to claim information page from open claim tab</td>
+<td></td>
+<td>40</td>
+<td>WebTestCases.TC_026_ClaimInformationPage@7a55af6b</td></tr>
+<tr>
+<td title='WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox.TC_027_claimInfrmtnPageFromSearchBox()'><b>TC_027_claimInfrmtnPageFromSearchBox</b><br>Test class: WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox<br>Test method: going to claim information page from searching a policy from searhBox on home page</td>
+<td></td>
+<td>43</td>
+<td>WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox@3d9c13b5</td></tr>
+<tr>
+<td title='WebTestCases.TC_028_PaymentFromPolicyMntnce.TC_028_paymentFromPolicyMntnce()'><b>TC_028_paymentFromPolicyMntnce</b><br>Test class: WebTestCases.TC_028_PaymentFromPolicyMntnce<br>Test method: payment from policy Maintanance page</td>
+<td></td>
+<td>102</td>
+<td>WebTestCases.TC_028_PaymentFromPolicyMntnce@492691d7</td></tr>
+<tr>
+<td title='WebTestCases.TC_029_TokenNumber.TC_029_tokenNumber()'><b>TC_029_tokenNumber</b><br>Test class: WebTestCases.TC_029_TokenNumber<br>Test method: Copying the Token number into the Token To test the skinned SSO test</td>
+<td></td>
+<td>34</td>
+<td>WebTestCases.TC_029_TokenNumber@27216cd</td></tr>
+<tr>
+<td title='WebTestCases.TC_030_OpenQuoteandAppPDFs.TC_030_openQuoteandAppPDFs()'><b>TC_030_openQuoteandAppPDFs</b><br>Test class: WebTestCases.TC_030_OpenQuoteandAppPDFs<br>Test method: Validating the quote pdf and app pdfs are printable after creating a quote</td>
+<td></td>
+<td>133</td>
+<td>WebTestCases.TC_030_OpenQuoteandAppPDFs@558bdf1f</td></tr>
+<tr>
+<td title='WebTestCases.TC_031_NonSkinnedSsoTest.TC_031_nonSkinnedSsoTest()'><b>TC_031_nonSkinnedSsoTest</b><br>Test class: WebTestCases.TC_031_NonSkinnedSsoTest<br>Test method: test the non-skinned SSO test</td>
+<td></td>
+<td>117</td>
+<td>WebTestCases.TC_031_NonSkinnedSsoTest@8576fa0</td></tr>
+<tr>
+<td title='WebTestCases.TC_032_MPPP.TC_032_mppp()'><b>TC_032_mppp</b><br>Test class: WebTestCases.TC_032_MPPP<br>Test method: creating a new quote •	Mortgage Portfolio Protection Program (MPPP) force placed policy</td>
+<td></td>
+<td>154</td>
+<td>WebTestCases.TC_032_MPPP@7582ff54</td></tr>
+<tr>
+<td title='WebTestCases.TC_033_ExcessFloodQuote.TC_033_excessFloodQuote()'><b>TC_033_excessFloodQuote</b><br>Test class: WebTestCases.TC_033_ExcessFloodQuote<br>Test method: creating excess flood quote</td>
+<td></td>
+<td>60</td>
+<td>WebTestCases.TC_033_ExcessFloodQuote@67545b57</td></tr>
+<tr>
+<td title='WebTestCases.TC_034_AgentMaintenance.TC_034_agentMaintenance()'><b>TC_034_agentMaintenance</b><br>Test class: WebTestCases.TC_034_AgentMaintenance<br>Test method: going to the agent maintenance page</td>
+<td></td>
+<td>34</td>
+<td>WebTestCases.TC_034_AgentMaintenance@6c2c1385</td></tr>
+<tr>
+<td title='WebTestCases.TC_036_HiscoxQuote.TC_036_hiscoxQuote()'><b>TC_036_hiscoxQuote</b><br>Test class: WebTestCases.TC_036_HiscoxQuote<br>Test method: Creating hiscox quote</td>
+<td></td>
+<td>75</td>
+<td>WebTestCases.TC_036_HiscoxQuote@3daf7722</td></tr>
+<tr>
+<td title='WebTestCases.TC_037_InclineFloodQuote.TC_038_inclineFloodQuote()'><b>TC_038_inclineFloodQuote</b><br>Test class: WebTestCases.TC_037_InclineFloodQuote<br>Test method: creating incline flood quote</td>
+<td></td>
+<td>74</td>
+<td>WebTestCases.TC_037_InclineFloodQuote@78641d23</td></tr>
+<tr>
+<td title='WebTestCases.TC_038_SFRQuote.TC_038_sfrQuote()'><b>TC_038_sfrQuote</b><br>Test class: WebTestCases.TC_038_SFRQuote<br>Test method: creating SFR quote</td>
+<td></td>
+<td>119</td>
+<td>WebTestCases.TC_038_SFRQuote@74589991</td></tr>
+<tr>
+<td title='WebTestCases.TC_040_PolicyOverViewOpenClaim.TC_040_policyOverViewOpenClaim()'><b>TC_040_policyOverViewOpenClaim</b><br>Test class: WebTestCases.TC_040_PolicyOverViewOpenClaim<br>Test method: Clicking on Open Claim tab in policy overView page from guest Sign in</td>
+<td></td>
+<td>17</td>
+<td>WebTestCases.TC_040_PolicyOverViewOpenClaim@146dfe6</td></tr>
+<tr>
+<td title='WebTestCases.TC_041_PRPQuote.TC_041_prpQuote()'><b>TC_041_prpQuote</b><br>Test class: WebTestCases.TC_041_PRPQuote<br>Test method: creating PRP quote</td>
+<td></td>
+<td>147</td>
+<td>WebTestCases.TC_041_PRPQuote@4716be8b</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-17T19:36:10 IST" name="Suite" finished-at="2021-02-17T20:00:41 IST" duration-ms="1471143">
+    <groups>
+      <group name="regression">
+        <method signature="TC_001_fileupload.TC_001_Fileupload()[pri:0, instance:WebTestCases.TC_001_fileupload@d41f816]" name="TC_001_Fileupload" class="WebTestCases.TC_001_fileupload"/>
+        <method signature="TC_006_ZurichFloodQuote.TC_006_zurichFloodQuote()[pri:0, instance:WebTestCases.TC_006_ZurichFloodQuote@5c2375a9]" name="TC_006_zurichFloodQuote" class="WebTestCases.TC_006_ZurichFloodQuote"/>
+        <method signature="TC_024_SearchPolicyFromSearchBox.TC_024_searchPolicyFromSearchBox()[pri:0, instance:WebTestCases.TC_024_SearchPolicyFromSearchBox@60129b9a]" name="TC_024_searchPolicyFromSearchBox" class="WebTestCases.TC_024_SearchPolicyFromSearchBox"/>
+        <method signature="TC_025_InsuredWebSiteGuestSignIn.TC_025_guestSignIn()[pri:0, instance:WebTestCases.TC_025_InsuredWebSiteGuestSignIn@78d6692f]" name="TC_025_guestSignIn" class="WebTestCases.TC_025_InsuredWebSiteGuestSignIn"/>
+        <method signature="TC_026_ClaimInformationPage.TC_026_claimInformationPage()[pri:0, instance:WebTestCases.TC_026_ClaimInformationPage@7a55af6b]" name="TC_026_claimInformationPage" class="WebTestCases.TC_026_ClaimInformationPage"/>
+        <method signature="TC_027_ClaimInfrmtnPagefromSearchBox.TC_027_claimInfrmtnPageFromSearchBox()[pri:0, instance:WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox@3d9c13b5]" name="TC_027_claimInfrmtnPageFromSearchBox" class="WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox"/>
+        <method signature="TC_028_PaymentFromPolicyMntnce.TC_028_paymentFromPolicyMntnce()[pri:0, instance:WebTestCases.TC_028_PaymentFromPolicyMntnce@492691d7]" name="TC_028_paymentFromPolicyMntnce" class="WebTestCases.TC_028_PaymentFromPolicyMntnce"/>
+        <method signature="TC_029_TokenNumber.TC_029_tokenNumber()[pri:0, instance:WebTestCases.TC_029_TokenNumber@27216cd]" name="TC_029_tokenNumber" class="WebTestCases.TC_029_TokenNumber"/>
+        <method signature="TC_030_OpenQuoteandAppPDFs.TC_030_openQuoteandAppPDFs()[pri:0, instance:WebTestCases.TC_030_OpenQuoteandAppPDFs@558bdf1f]" name="TC_030_openQuoteandAppPDFs" class="WebTestCases.TC_030_OpenQuoteandAppPDFs"/>
+        <method signature="TC_031_NonSkinnedSsoTest.TC_031_nonSkinnedSsoTest()[pri:0, instance:WebTestCases.TC_031_NonSkinnedSsoTest@8576fa0]" name="TC_031_nonSkinnedSsoTest" class="WebTestCases.TC_031_NonSkinnedSsoTest"/>
+        <method signature="TC_032_MPPP.TC_032_mppp()[pri:0, instance:WebTestCases.TC_032_MPPP@7582ff54]" name="TC_032_mppp" class="WebTestCases.TC_032_MPPP"/>
+        <method signature="TC_033_ExcessFloodQuote.TC_033_excessFloodQuote()[pri:0, instance:WebTestCases.TC_033_ExcessFloodQuote@67545b57]" name="TC_033_excessFloodQuote" class="WebTestCases.TC_033_ExcessFloodQuote"/>
+        <method signature="TC_034_AgentMaintenance.TC_034_agentMaintenance()[pri:0, instance:WebTestCases.TC_034_AgentMaintenance@6c2c1385]" name="TC_034_agentMaintenance" class="WebTestCases.TC_034_AgentMaintenance"/>
+        <method signature="TC_035_ReprintQuoteOrAppWithAppNumber.TC_012_reprintQuoteOrAppWithAppNumber()[pri:0, instance:WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber@5f354bcf]" name="TC_012_reprintQuoteOrAppWithAppNumber" class="WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber"/>
+        <method signature="TC_036_HiscoxQuote.TC_036_hiscoxQuote()[pri:0, instance:WebTestCases.TC_036_HiscoxQuote@3daf7722]" name="TC_036_hiscoxQuote" class="WebTestCases.TC_036_HiscoxQuote"/>
+        <method signature="TC_037_InclineFloodQuote.TC_038_inclineFloodQuote()[pri:0, instance:WebTestCases.TC_037_InclineFloodQuote@78641d23]" name="TC_038_inclineFloodQuote" class="WebTestCases.TC_037_InclineFloodQuote"/>
+        <method signature="TC_038_SFRQuote.TC_038_sfrQuote()[pri:0, instance:WebTestCases.TC_038_SFRQuote@74589991]" name="TC_038_sfrQuote" class="WebTestCases.TC_038_SFRQuote"/>
+        <method signature="TC_040_PolicyOverViewOpenClaim.TC_040_policyOverViewOpenClaim()[pri:0, instance:WebTestCases.TC_040_PolicyOverViewOpenClaim@146dfe6]" name="TC_040_policyOverViewOpenClaim" class="WebTestCases.TC_040_PolicyOverViewOpenClaim"/>
+        <method signature="TC_041_PRPQuote.TC_041_prpQuote()[pri:0, instance:WebTestCases.TC_041_PRPQuote@4716be8b]" name="TC_041_prpQuote" class="WebTestCases.TC_041_PRPQuote"/>
+      </group> <!-- regression -->
+      <group name="Web Application">
+        <method signature="TC_001_fileupload.TC_001_Fileupload()[pri:0, instance:WebTestCases.TC_001_fileupload@d41f816]" name="TC_001_Fileupload" class="WebTestCases.TC_001_fileupload"/>
+        <method signature="TC_006_ZurichFloodQuote.TC_006_zurichFloodQuote()[pri:0, instance:WebTestCases.TC_006_ZurichFloodQuote@5c2375a9]" name="TC_006_zurichFloodQuote" class="WebTestCases.TC_006_ZurichFloodQuote"/>
+        <method signature="TC_024_SearchPolicyFromSearchBox.TC_024_searchPolicyFromSearchBox()[pri:0, instance:WebTestCases.TC_024_SearchPolicyFromSearchBox@60129b9a]" name="TC_024_searchPolicyFromSearchBox" class="WebTestCases.TC_024_SearchPolicyFromSearchBox"/>
+        <method signature="TC_025_InsuredWebSiteGuestSignIn.TC_025_guestSignIn()[pri:0, instance:WebTestCases.TC_025_InsuredWebSiteGuestSignIn@78d6692f]" name="TC_025_guestSignIn" class="WebTestCases.TC_025_InsuredWebSiteGuestSignIn"/>
+        <method signature="TC_026_ClaimInformationPage.TC_026_claimInformationPage()[pri:0, instance:WebTestCases.TC_026_ClaimInformationPage@7a55af6b]" name="TC_026_claimInformationPage" class="WebTestCases.TC_026_ClaimInformationPage"/>
+        <method signature="TC_027_ClaimInfrmtnPagefromSearchBox.TC_027_claimInfrmtnPageFromSearchBox()[pri:0, instance:WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox@3d9c13b5]" name="TC_027_claimInfrmtnPageFromSearchBox" class="WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox"/>
+        <method signature="TC_028_PaymentFromPolicyMntnce.TC_028_paymentFromPolicyMntnce()[pri:0, instance:WebTestCases.TC_028_PaymentFromPolicyMntnce@492691d7]" name="TC_028_paymentFromPolicyMntnce" class="WebTestCases.TC_028_PaymentFromPolicyMntnce"/>
+        <method signature="TC_029_TokenNumber.TC_029_tokenNumber()[pri:0, instance:WebTestCases.TC_029_TokenNumber@27216cd]" name="TC_029_tokenNumber" class="WebTestCases.TC_029_TokenNumber"/>
+        <method signature="TC_030_OpenQuoteandAppPDFs.TC_030_openQuoteandAppPDFs()[pri:0, instance:WebTestCases.TC_030_OpenQuoteandAppPDFs@558bdf1f]" name="TC_030_openQuoteandAppPDFs" class="WebTestCases.TC_030_OpenQuoteandAppPDFs"/>
+        <method signature="TC_031_NonSkinnedSsoTest.TC_031_nonSkinnedSsoTest()[pri:0, instance:WebTestCases.TC_031_NonSkinnedSsoTest@8576fa0]" name="TC_031_nonSkinnedSsoTest" class="WebTestCases.TC_031_NonSkinnedSsoTest"/>
+        <method signature="TC_032_MPPP.TC_032_mppp()[pri:0, instance:WebTestCases.TC_032_MPPP@7582ff54]" name="TC_032_mppp" class="WebTestCases.TC_032_MPPP"/>
+        <method signature="TC_033_ExcessFloodQuote.TC_033_excessFloodQuote()[pri:0, instance:WebTestCases.TC_033_ExcessFloodQuote@67545b57]" name="TC_033_excessFloodQuote" class="WebTestCases.TC_033_ExcessFloodQuote"/>
+        <method signature="TC_034_AgentMaintenance.TC_034_agentMaintenance()[pri:0, instance:WebTestCases.TC_034_AgentMaintenance@6c2c1385]" name="TC_034_agentMaintenance" class="WebTestCases.TC_034_AgentMaintenance"/>
+        <method signature="TC_035_ReprintQuoteOrAppWithAppNumber.TC_012_reprintQuoteOrAppWithAppNumber()[pri:0, instance:WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber@5f354bcf]" name="TC_012_reprintQuoteOrAppWithAppNumber" class="WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber"/>
+        <method signature="TC_036_HiscoxQuote.TC_036_hiscoxQuote()[pri:0, instance:WebTestCases.TC_036_HiscoxQuote@3daf7722]" name="TC_036_hiscoxQuote" class="WebTestCases.TC_036_HiscoxQuote"/>
+        <method signature="TC_037_InclineFloodQuote.TC_038_inclineFloodQuote()[pri:0, instance:WebTestCases.TC_037_InclineFloodQuote@78641d23]" name="TC_038_inclineFloodQuote" class="WebTestCases.TC_037_InclineFloodQuote"/>
+        <method signature="TC_038_SFRQuote.TC_038_sfrQuote()[pri:0, instance:WebTestCases.TC_038_SFRQuote@74589991]" name="TC_038_sfrQuote" class="WebTestCases.TC_038_SFRQuote"/>
+        <method signature="TC_040_PolicyOverViewOpenClaim.TC_040_policyOverViewOpenClaim()[pri:0, instance:WebTestCases.TC_040_PolicyOverViewOpenClaim@146dfe6]" name="TC_040_policyOverViewOpenClaim" class="WebTestCases.TC_040_PolicyOverViewOpenClaim"/>
+        <method signature="TC_041_PRPQuote.TC_041_prpQuote()[pri:0, instance:WebTestCases.TC_041_PRPQuote@4716be8b]" name="TC_041_prpQuote" class="WebTestCases.TC_041_PRPQuote"/>
+      </group> <!-- Web Application -->
+      <group name="smoke">
+        <method signature="TC_001_fileupload.TC_001_Fileupload()[pri:0, instance:WebTestCases.TC_001_fileupload@d41f816]" name="TC_001_Fileupload" class="WebTestCases.TC_001_fileupload"/>
+        <method signature="TC_006_ZurichFloodQuote.TC_006_zurichFloodQuote()[pri:0, instance:WebTestCases.TC_006_ZurichFloodQuote@5c2375a9]" name="TC_006_zurichFloodQuote" class="WebTestCases.TC_006_ZurichFloodQuote"/>
+        <method signature="TC_024_SearchPolicyFromSearchBox.TC_024_searchPolicyFromSearchBox()[pri:0, instance:WebTestCases.TC_024_SearchPolicyFromSearchBox@60129b9a]" name="TC_024_searchPolicyFromSearchBox" class="WebTestCases.TC_024_SearchPolicyFromSearchBox"/>
+        <method signature="TC_025_InsuredWebSiteGuestSignIn.TC_025_guestSignIn()[pri:0, instance:WebTestCases.TC_025_InsuredWebSiteGuestSignIn@78d6692f]" name="TC_025_guestSignIn" class="WebTestCases.TC_025_InsuredWebSiteGuestSignIn"/>
+        <method signature="TC_026_ClaimInformationPage.TC_026_claimInformationPage()[pri:0, instance:WebTestCases.TC_026_ClaimInformationPage@7a55af6b]" name="TC_026_claimInformationPage" class="WebTestCases.TC_026_ClaimInformationPage"/>
+        <method signature="TC_027_ClaimInfrmtnPagefromSearchBox.TC_027_claimInfrmtnPageFromSearchBox()[pri:0, instance:WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox@3d9c13b5]" name="TC_027_claimInfrmtnPageFromSearchBox" class="WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox"/>
+        <method signature="TC_028_PaymentFromPolicyMntnce.TC_028_paymentFromPolicyMntnce()[pri:0, instance:WebTestCases.TC_028_PaymentFromPolicyMntnce@492691d7]" name="TC_028_paymentFromPolicyMntnce" class="WebTestCases.TC_028_PaymentFromPolicyMntnce"/>
+        <method signature="TC_029_TokenNumber.TC_029_tokenNumber()[pri:0, instance:WebTestCases.TC_029_TokenNumber@27216cd]" name="TC_029_tokenNumber" class="WebTestCases.TC_029_TokenNumber"/>
+        <method signature="TC_030_OpenQuoteandAppPDFs.TC_030_openQuoteandAppPDFs()[pri:0, instance:WebTestCases.TC_030_OpenQuoteandAppPDFs@558bdf1f]" name="TC_030_openQuoteandAppPDFs" class="WebTestCases.TC_030_OpenQuoteandAppPDFs"/>
+        <method signature="TC_031_NonSkinnedSsoTest.TC_031_nonSkinnedSsoTest()[pri:0, instance:WebTestCases.TC_031_NonSkinnedSsoTest@8576fa0]" name="TC_031_nonSkinnedSsoTest" class="WebTestCases.TC_031_NonSkinnedSsoTest"/>
+        <method signature="TC_032_MPPP.TC_032_mppp()[pri:0, instance:WebTestCases.TC_032_MPPP@7582ff54]" name="TC_032_mppp" class="WebTestCases.TC_032_MPPP"/>
+        <method signature="TC_033_ExcessFloodQuote.TC_033_excessFloodQuote()[pri:0, instance:WebTestCases.TC_033_ExcessFloodQuote@67545b57]" name="TC_033_excessFloodQuote" class="WebTestCases.TC_033_ExcessFloodQuote"/>
+        <method signature="TC_034_AgentMaintenance.TC_034_agentMaintenance()[pri:0, instance:WebTestCases.TC_034_AgentMaintenance@6c2c1385]" name="TC_034_agentMaintenance" class="WebTestCases.TC_034_AgentMaintenance"/>
+        <method signature="TC_035_ReprintQuoteOrAppWithAppNumber.TC_012_reprintQuoteOrAppWithAppNumber()[pri:0, instance:WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber@5f354bcf]" name="TC_012_reprintQuoteOrAppWithAppNumber" class="WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber"/>
+        <method signature="TC_036_HiscoxQuote.TC_036_hiscoxQuote()[pri:0, instance:WebTestCases.TC_036_HiscoxQuote@3daf7722]" name="TC_036_hiscoxQuote" class="WebTestCases.TC_036_HiscoxQuote"/>
+        <method signature="TC_037_InclineFloodQuote.TC_038_inclineFloodQuote()[pri:0, instance:WebTestCases.TC_037_InclineFloodQuote@78641d23]" name="TC_038_inclineFloodQuote" class="WebTestCases.TC_037_InclineFloodQuote"/>
+        <method signature="TC_038_SFRQuote.TC_038_sfrQuote()[pri:0, instance:WebTestCases.TC_038_SFRQuote@74589991]" name="TC_038_sfrQuote" class="WebTestCases.TC_038_SFRQuote"/>
+        <method signature="TC_040_PolicyOverViewOpenClaim.TC_040_policyOverViewOpenClaim()[pri:0, instance:WebTestCases.TC_040_PolicyOverViewOpenClaim@146dfe6]" name="TC_040_policyOverViewOpenClaim" class="WebTestCases.TC_040_PolicyOverViewOpenClaim"/>
+        <method signature="TC_041_PRPQuote.TC_041_prpQuote()[pri:0, instance:WebTestCases.TC_041_PRPQuote@4716be8b]" name="TC_041_prpQuote" class="WebTestCases.TC_041_PRPQuote"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2021-02-17T19:36:10 IST" name="Web" finished-at="2021-02-17T20:00:41 IST" duration-ms="1471143">
+      <class name="WebTestCases.TC_036_HiscoxQuote">
+        <test-method signature="TC_036_hiscoxQuote()[pri:0, instance:WebTestCases.TC_036_HiscoxQuote@3daf7722]" started-at="2021-02-17T19:53:22 IST" name="TC_036_hiscoxQuote" description="Creating hiscox quote" finished-at="2021-02-17T19:54:37 IST" duration-ms="75135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_036_hiscoxQuote -->
+      </class> <!-- WebTestCases.TC_036_HiscoxQuote -->
+      <class name="WebTestCases.TC_029_TokenNumber">
+        <test-method signature="TC_029_tokenNumber()[pri:0, instance:WebTestCases.TC_029_TokenNumber@27216cd]" started-at="2021-02-17T19:43:35 IST" name="TC_029_tokenNumber" description="Copying the Token number into the Token To test the skinned SSO test" finished-at="2021-02-17T19:44:09 IST" duration-ms="34689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_029_tokenNumber -->
+      </class> <!-- WebTestCases.TC_029_TokenNumber -->
+      <class name="WebTestCases.TC_037_InclineFloodQuote">
+        <test-method signature="TC_038_inclineFloodQuote()[pri:0, instance:WebTestCases.TC_037_InclineFloodQuote@78641d23]" started-at="2021-02-17T19:54:38 IST" name="TC_038_inclineFloodQuote" description="creating incline flood quote" finished-at="2021-02-17T19:55:53 IST" duration-ms="74491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_038_inclineFloodQuote -->
+      </class> <!-- WebTestCases.TC_037_InclineFloodQuote -->
+      <class name="WebTestCases.TC_034_AgentMaintenance">
+        <test-method signature="TC_034_agentMaintenance()[pri:0, instance:WebTestCases.TC_034_AgentMaintenance@6c2c1385]" started-at="2021-02-17T19:52:00 IST" name="TC_034_agentMaintenance" description="going to the agent maintenance page" finished-at="2021-02-17T19:52:34 IST" duration-ms="34518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_034_agentMaintenance -->
+      </class> <!-- WebTestCases.TC_034_AgentMaintenance -->
+      <class name="WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber">
+        <test-method signature="TC_012_reprintQuoteOrAppWithAppNumber()[pri:0, instance:WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber@5f354bcf]" started-at="2021-02-17T19:52:35 IST" name="TC_012_reprintQuoteOrAppWithAppNumber" description="Reprint Quote or App with application number" finished-at="2021-02-17T19:53:21 IST" duration-ms="45883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_012_reprintQuoteOrAppWithAppNumber -->
+      </class> <!-- WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber -->
+      <class name="WebTestCases.TC_030_OpenQuoteandAppPDFs">
+        <test-method signature="TC_030_openQuoteandAppPDFs()[pri:0, instance:WebTestCases.TC_030_OpenQuoteandAppPDFs@558bdf1f]" started-at="2021-02-17T19:44:10 IST" name="TC_030_openQuoteandAppPDFs" description="Validating the quote pdf and app pdfs are printable after creating a quote" finished-at="2021-02-17T19:46:24 IST" duration-ms="133816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_030_openQuoteandAppPDFs -->
+      </class> <!-- WebTestCases.TC_030_OpenQuoteandAppPDFs -->
+      <class name="WebTestCases.TC_006_ZurichFloodQuote">
+        <test-method signature="TC_006_zurichFloodQuote()[pri:0, instance:WebTestCases.TC_006_ZurichFloodQuote@5c2375a9]" started-at="2021-02-17T19:37:20 IST" name="TC_006_zurichFloodQuote" description="Zurich Flood Quote" finished-at="2021-02-17T19:39:16 IST" duration-ms="115357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_006_zurichFloodQuote -->
+      </class> <!-- WebTestCases.TC_006_ZurichFloodQuote -->
+      <class name="WebTestCases.TC_032_MPPP">
+        <test-method signature="TC_032_mppp()[pri:0, instance:WebTestCases.TC_032_MPPP@7582ff54]" started-at="2021-02-17T19:48:23 IST" name="TC_032_mppp" description="creating a new quote •	Mortgage Portfolio Protection Program (MPPP) force placed policy" finished-at="2021-02-17T19:50:58 IST" duration-ms="154609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_032_mppp -->
+      </class> <!-- WebTestCases.TC_032_MPPP -->
+      <class name="WebTestCases.TC_041_PRPQuote">
+        <test-method signature="TC_041_prpQuote()[pri:0, instance:WebTestCases.TC_041_PRPQuote@4716be8b]" started-at="2021-02-17T19:58:12 IST" name="TC_041_prpQuote" description="creating PRP quote" finished-at="2021-02-17T20:00:40 IST" duration-ms="147771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_041_prpQuote -->
+      </class> <!-- WebTestCases.TC_041_PRPQuote -->
+      <class name="WebTestCases.TC_038_SFRQuote">
+        <test-method signature="TC_038_sfrQuote()[pri:0, instance:WebTestCases.TC_038_SFRQuote@74589991]" started-at="2021-02-17T19:55:54 IST" name="TC_038_sfrQuote" description="creating SFR quote" finished-at="2021-02-17T19:57:53 IST" duration-ms="119288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_038_sfrQuote -->
+      </class> <!-- WebTestCases.TC_038_SFRQuote -->
+      <class name="WebTestCases.TC_024_SearchPolicyFromSearchBox">
+        <test-method signature="TC_024_searchPolicyFromSearchBox()[pri:0, instance:WebTestCases.TC_024_SearchPolicyFromSearchBox@60129b9a]" started-at="2021-02-17T19:39:17 IST" name="TC_024_searchPolicyFromSearchBox" description="Policy search" finished-at="2021-02-17T19:40:00 IST" duration-ms="43100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_024_searchPolicyFromSearchBox -->
+      </class> <!-- WebTestCases.TC_024_SearchPolicyFromSearchBox -->
+      <class name="WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox">
+        <test-method signature="TC_027_claimInfrmtnPageFromSearchBox()[pri:0, instance:WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox@3d9c13b5]" started-at="2021-02-17T19:41:07 IST" name="TC_027_claimInfrmtnPageFromSearchBox" description="going to claim information page from searching a policy from searhBox on home page" finished-at="2021-02-17T19:41:51 IST" duration-ms="43068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_027_claimInfrmtnPageFromSearchBox -->
+      </class> <!-- WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox -->
+      <class name="WebTestCases.TC_025_InsuredWebSiteGuestSignIn">
+        <test-method signature="TC_025_guestSignIn()[pri:0, instance:WebTestCases.TC_025_InsuredWebSiteGuestSignIn@78d6692f]" started-at="2021-02-17T19:40:00 IST" name="TC_025_guestSignIn" description="Guest sign in" finished-at="2021-02-17T19:40:26 IST" duration-ms="25446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_025_guestSignIn -->
+      </class> <!-- WebTestCases.TC_025_InsuredWebSiteGuestSignIn -->
+      <class name="WebTestCases.TC_031_NonSkinnedSsoTest">
+        <test-method signature="TC_031_nonSkinnedSsoTest()[pri:0, instance:WebTestCases.TC_031_NonSkinnedSsoTest@8576fa0]" started-at="2021-02-17T19:46:25 IST" name="TC_031_nonSkinnedSsoTest" description="test the non-skinned SSO test" finished-at="2021-02-17T19:48:22 IST" duration-ms="117374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_031_nonSkinnedSsoTest -->
+      </class> <!-- WebTestCases.TC_031_NonSkinnedSsoTest -->
+      <class name="WebTestCases.TC_028_PaymentFromPolicyMntnce">
+        <test-method signature="TC_028_paymentFromPolicyMntnce()[pri:0, instance:WebTestCases.TC_028_PaymentFromPolicyMntnce@492691d7]" started-at="2021-02-17T19:41:51 IST" name="TC_028_paymentFromPolicyMntnce" description="payment from policy Maintanance page" finished-at="2021-02-17T19:43:34 IST" duration-ms="102567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_028_paymentFromPolicyMntnce -->
+      </class> <!-- WebTestCases.TC_028_PaymentFromPolicyMntnce -->
+      <class name="WebTestCases.TC_033_ExcessFloodQuote">
+        <test-method signature="TC_033_excessFloodQuote()[pri:0, instance:WebTestCases.TC_033_ExcessFloodQuote@67545b57]" started-at="2021-02-17T19:50:59 IST" name="TC_033_excessFloodQuote" description="creating excess flood quote" finished-at="2021-02-17T19:51:59 IST" duration-ms="60446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_033_excessFloodQuote -->
+      </class> <!-- WebTestCases.TC_033_ExcessFloodQuote -->
+      <class name="WebTestCases.TC_001_fileupload">
+        <test-method signature="TC_001_Fileupload()[pri:0, instance:WebTestCases.TC_001_fileupload@d41f816]" started-at="2021-02-17T19:36:10 IST" name="TC_001_Fileupload" description="Upload file" finished-at="2021-02-17T19:37:19 IST" duration-ms="69451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_Fileupload -->
+      </class> <!-- WebTestCases.TC_001_fileupload -->
+      <class name="WebTestCases.TC_026_ClaimInformationPage">
+        <test-method signature="TC_026_claimInformationPage()[pri:0, instance:WebTestCases.TC_026_ClaimInformationPage@7a55af6b]" started-at="2021-02-17T19:40:27 IST" name="TC_026_claimInformationPage" description="going to claim information page from open claim tab" finished-at="2021-02-17T19:41:07 IST" duration-ms="40099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_026_claimInformationPage -->
+      </class> <!-- WebTestCases.TC_026_ClaimInformationPage -->
+      <class name="WebTestCases.TC_040_PolicyOverViewOpenClaim">
+        <test-method signature="TC_040_policyOverViewOpenClaim()[pri:0, instance:WebTestCases.TC_040_PolicyOverViewOpenClaim@146dfe6]" started-at="2021-02-17T19:57:54 IST" name="TC_040_policyOverViewOpenClaim" description="Clicking on Open Claim tab in policy overView page from guest Sign in" finished-at="2021-02-17T19:58:11 IST" duration-ms="17438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_040_policyOverViewOpenClaim -->
+      </class> <!-- WebTestCases.TC_040_PolicyOverViewOpenClaim -->
+    </test> <!-- Web -->
+  </suite> <!-- Suite -->
+</testng-results>
